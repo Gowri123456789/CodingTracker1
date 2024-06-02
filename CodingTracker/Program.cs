@@ -4,13 +4,19 @@ namespace CodingTracker
 {
     internal class Program
     {
-        static void Main(string[] args)
+        void MyFirstMethod()
         {
-            Console.WriteLine("Hello C# Academy! One more modification!");
-            Console.WriteLine("Hello C# Academy! One more modification!");
-            Console.WriteLine("Hello C# Academy! One more modification!");
-            Console.WriteLine("Hello C# Academy! One more modification!");
-            Console.WriteLine("Hello C# Academy! One more modification!");
+            //Do Something
+        }
+
+        void MySecondMethod()
+        {
+            //Do Something
+        }
+
+        void MyThirdMethod()
+        {
+            //Do Something
         }
     }
 }
